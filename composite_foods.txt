@@ -1,0 +1,2 @@
+COMPOSITE|Brownie with fruits|Chocolate,apples,tasty|Apple:2
+COMPOSITE|Chocolatey|Coupled-Choco,Brownie|Brownie with fruits:2

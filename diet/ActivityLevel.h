@@ -1,0 +1,12 @@
+#ifndef ACTIVITYLEVEL_H
+#define ACTIVITYLEVEL_H
+
+enum ActivityLevel {
+    SEDENTARY = 0,
+    LIGHTLY_ACTIVE,
+    MODERATELY_ACTIVE,
+    VERY_ACTIVE,
+    EXTREMELY_ACTIVE
+};
+
+#endif // ACTIVITYLEVEL_H

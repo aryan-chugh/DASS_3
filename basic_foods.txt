@@ -1,0 +1,2 @@
+BASIC|Apple|Juicy|20
+BASIC|Chocolate|Bourbon|500
